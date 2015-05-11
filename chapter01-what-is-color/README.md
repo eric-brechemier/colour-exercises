@@ -12,19 +12,12 @@ The weather was cloudy, with a sunny spell around 4PM. The pictures
 were scaled down to 200x150px with 300 pixels/inch and saved as JPEG
 with 100% quality using Gimp.
 
-* 9AM (cloudy)
+The sequence shows pictures taken at: 9AM, 12AM, 4.30PM (sunny), 7PM, 8.30PM.
+
 ![Daruma doll, 9AM][DARUMA-9AM]
-
-* 12AM (cloudy)
 ![Daruma doll, 12AM][DARUMA-12AM]
-
-* 4.30PM (sunny)
 ![Daruma doll, 4.30PM][DARUMA-4.30PM]
-
-* 7PM (cloudy)
 ![Daruma doll, 7PM][DARUMA-7PM]
-
-* 8.30PM (cloudy)
 ![Daruma doll, 8.30PM][DARUMA-8.30PM]
 
 
