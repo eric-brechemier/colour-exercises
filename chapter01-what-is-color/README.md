@@ -9,7 +9,8 @@
 All pictures were taken on April 30th, 2015, with a Panasonic DMC-GX1
 using iA mode (automatic exposure). The camera is pointed towards the South.
 The weather was cloudy, with a sunny spell around 4PM. The pictures
-were scaled down to 800x600px and downsized to 75% quality JPEG in Gimp.
+were scaled down to 200x150px with 300 pixels/inch and saved as JPEG
+with 100% quality using Gimp.
 
 * 9AM (cloudy)
 ![Daruma doll, 9AM][DARUMA-9AM]
