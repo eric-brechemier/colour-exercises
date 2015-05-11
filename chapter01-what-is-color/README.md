@@ -2,9 +2,9 @@
 
 ### Exercises
 
-1. **Observe an object under different lighting conditions,
+**1. Observe an object under different lighting conditions,
    and, if you can, take some color photographs.
    How do the different conditions affect its color?**
 
-2. **Collect and label pictures (magazine photographs are good)
+**2. Collect and label pictures (magazine photographs are good)
    showing local, optical, and arbitrary color.**
