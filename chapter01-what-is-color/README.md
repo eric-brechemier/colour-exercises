@@ -38,3 +38,8 @@ The sequence shows pictures taken at: 9AM, 12AM, 4.30PM (sunny), 7PM, 8.30PM.
 
 **2. Collect and label pictures (magazine photographs are good)
    showing local, optical, and arbitrary color.**
+
+![Local, optical, arbitrary colors][LOCAL-OPTICAL-ARBITRARY]
+
+[LOCAL-OPTICAL-ARBITRARY]: exercise02/Chapter01-Exercise2-small.jpg
+"Montage from pieces cut in magazines/ads with local, optical, arbitrary colors"
