@@ -30,16 +30,16 @@ were scaled down to 800x600px and downsized to 75% quality JPEG in Gimp.
 [DARUMA-9AM]: exercise01/A-April30-9AM-cloudy-small.jpg
 "Daruma Doll, April 30th, 2015, 9AM, cloudy weather"
 
-[DARUMA-12AM]: exercise01/A-April30-12AM-cloudy-small.jpg
+[DARUMA-12AM]: exercise01/B-April30-12AM-cloudy-small.jpg
 "Daruma Doll, April 30th, 2015, 12AM, cloudy weather"
 
-[DARUMA-4.30PM]: exercise01/A-April30-4.30PM-cloudy-small.jpg
+[DARUMA-4.30PM]: exercise01/C-April30-4.30PM-cloudy-small.jpg
 "Daruma Doll, April 30th, 2015, 4.30PM, cloudy weather"
 
-[DARUMA-7PM]: exercise01/A-April30-7PM-cloudy-small.jpg
+[DARUMA-7PM]: exercise01/D-April30-7PM-cloudy-small.jpg
 "Daruma Doll, April 30th, 2015, 7PM, cloudy weather"
 
-[DARUMA-8.30PM]: exercise01/A-April30-8.30PM-cloudy-small.jpg
+[DARUMA-8.30PM]: exercise01/E-April30-8.30PM-cloudy-small.jpg
 "Daruma Doll, April 30th, 2015, 8.30PM, cloudy weather"
 
 **2. Collect and label pictures (magazine photographs are good)
