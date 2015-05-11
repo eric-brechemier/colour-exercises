@@ -12,7 +12,7 @@ LICENSE
 -------
 
 Wording of the exercises is extract from ["Colour" (2nd edition)][BOOK]
-by Edith Anderson Feisner  
+by Edith Anderson Feisner.  
 Copyright (c) 2006, 2001 Fairchild Publications, Inc.
 
 My answers to the exercises can be shared and built upon without permission,
